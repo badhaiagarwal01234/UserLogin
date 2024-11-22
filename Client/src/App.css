@@ -1,0 +1,22 @@
+.header {
+  width: 90%;
+  height: 50px;
+  padding: 2px;
+  display: flex;
+  justify-content: space-between;
+  color: aliceblue;
+    
+}
+.contain{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+.link{
+    display: flex;
+}
+.btns{
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
